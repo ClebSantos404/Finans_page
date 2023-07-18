@@ -1,0 +1,107 @@
+body {
+  background-color: rgba(255, 255, 255, 0.192);
+}
+
+#topo a {
+  color: rgb(126, 96, 0);
+}
+
+#topo .logo img {
+  max-width: 200px;
+}
+
+#moca-foto img {
+  height: 100%;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 300px) {
+  #meio #moca-foto {
+    display: none;
+  }
+
+  #meio {
+    height: 650px;
+  }
+}
+
+#topo nav a {
+  font-size: 1.2rem;
+}
+
+#topo nav a:hover {
+  color: white;
+  border-bottom: 1px solid white;
+}
+
+#topo .button a:hover {
+  color: black;
+} 
+
+#meio {
+  align-items: end;
+  justify-content: space-evenly;
+}
+
+#meio p {
+  font-size: .9em;
+}
+
+#meio input {
+  width: 80%;
+  padding: 0.6rem 0;
+  font-weight: bold;
+  outline: none;
+}
+
+#meio form label a {
+  padding: 0.6rem 1rem;
+}
+
+#meio section {
+  width: 80%;
+  height: 550px;
+}
+
+.texto-inicio {
+  display: flex;
+  flex-direction: column;
+  margin: 4rem 0;
+}
+
+#meio section div .titulo {
+  font-size: 2.5em;
+  font-weight: 400;
+}
+
+#conteudo div {
+  padding: 60px 0;
+}
+
+#conteudo {
+  margin-top: 5rem;
+}
+
+#conteudo section {
+  margin: 15rem 0;
+}
+
+.redes a {
+  font-size: 1.5rem;
+  color: black;
+}
+
+.caixa {
+  padding-top: 60px 0;
+  margin-bottom: 5rem;
+}
+
+.m-lados {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.mtb-40 {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
