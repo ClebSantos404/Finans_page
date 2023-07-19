@@ -12,7 +12,7 @@ This page was created in order to show my skills learned with booststrap technol
 
 ## Ruby Gems
 
-* Bootstrap
+* Booststrap
 
 
 ## Getting started
@@ -51,10 +51,6 @@ The main features of the application are:
     - In case of sensitive bugs like security vulnerabilities, please contact
       clebsondantas404@gmail.com directly instead of using issue tracker. We value your effort
       to improve the security and privacy of this project!
-
-  ## Versioning
-
-  1.0.0.0
 
 
   ## Authors
