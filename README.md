@@ -1,4 +1,4 @@
-![Logo of the project](https://scontent.xx.fbcdn.net/v/t1.15752-9/361907117_790424922781879_3368269427361127900_n.png?stp=dst-png_p403x403&_nc_cat=100&cb=99be929b-3346023f&ccb=1-7&_nc_sid=aee45a&_nc_ohc=NRYmq6S1J9EAX_nbXmL&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQjBzXzOW1qeAeAQ38Rsm7MJPAN_xgOlsrXCf04ZqS3KQ&oe=64DF004C)
+![Logo of the project](https://scontent.xx.fbcdn.net/v/t1.15752-9/376382864_981740023106582_1990887987867358675_n.png?stp=dst-png_p403x403&_nc_cat=107&ccb=1-7&_nc_sid=aee45a&_nc_ohc=ANFwrGH27bcAX9AidBc&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSXuBxAdsHyslr-_hYn3wkqCzBpEG_jZ3NllaXMsZYK9g&oe=6527F1D7)
 
 
 ## Finans - Finanças Pessoais
